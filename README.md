@@ -11,7 +11,7 @@ Takeaways:
 Miro's AI agent provided many useful recommendations. I provided high-level overview with basic flow design and output for the user. The AI tool did the rest.
 The Miro MCP connector with Claude Code is transformative for vibe-coding prototypes. The workflow design was built to provide a great user experience. Using Miro gave me the visual indicators I needed to better understand friction points. 
 
-
+Future versions will incorporate AI agents and back-end support to store user zip code and email address.
 
 Vanilla HTML/CSS/JS with ES modules.
 
