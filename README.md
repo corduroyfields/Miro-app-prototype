@@ -2,7 +2,7 @@
 
 A clickable web prototype of a **personalized "best places to live" recommender**, built directly from the [**Web App MVP** Miro board](https://miro.com/app/board/uXjVHLZLYTA=/) using Claude Code and the Miro MCP server. The board's three diagrams -  a UX flow, a database ERD, and a three-layer recommendation engine flowchart, are the source of truth for everything in this repo.
 
-**No build step, no dependencies.** Vanilla HTML/CSS/JS with ES modules.
+Vanilla HTML/CSS/JS with ES modules.
 
 ## Run it locally
 
