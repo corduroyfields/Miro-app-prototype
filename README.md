@@ -2,6 +2,17 @@
 
 A clickable web prototype of a **personalized "best places to live" recommender**, built directly from the [**Web App MVP** Miro board](https://miro.com/app/board/uXjVHLZLYTA=/) using Claude Code and the Miro MCP server. The board's three diagrams -  a UX flow, a database ERD, and a three-layer recommendation engine flowchart, are the source of truth for everything in this repo.
 
+This project started as a learning project using Miro's AI tools (Sidekick) to build a workflows for a web app. My goal was to create with Miro's tools, from ideation to commit. I wanted to build a thin-slice MVP that would result in a workable app prototype and build my skills.
+After iterating on the workflow and app features, I connected Claude Code to the Miro MCP server to ingest the workflow designs to build a working app prototype. 
+
+Initially, I used Cursor to build the app, but ran into token limitations. That's when I switched to Claude Code and shipped the app.
+
+Takeaways: 
+Miro's AI agent provided many useful recommendations. I provided high-level overview with basic flow design and output for the user. The AI tool did the rest.
+The Miro MCP connector with Claude Code is transformative for vibe-coding prototypes. The workflow design was built to provide a great user experience. Using Miro gave me the visual indicators I needed to better understand friction points. 
+
+
+
 Vanilla HTML/CSS/JS with ES modules.
 
 ## Run it locally
