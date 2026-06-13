@@ -15,6 +15,11 @@ Future versions will incorporate AI agents and back-end support to store user zi
 
 Vanilla HTML/CSS/JS with ES modules.
 
+## Run it on the live site
+
+open https://corduroyfields.github.io/Miro-app-prototype/
+
+
 ## Run it locally
 
 ```bash
