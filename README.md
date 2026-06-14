@@ -1,6 +1,6 @@
 # Miro App Prototype — "Livable"
 
-A clickable web prototype of a **personalized "best places to live" recommender**, built directly from the [**Web App MVP** Miro board]((https://miro.com/app/board/uXjVHLZLYTA=/?share_link_id=375595503240)) using Claude Code and the Miro MCP server. The board's three diagrams -  a UX flow, a database ERD, and a three-layer recommendation engine flowchart, are the source of truth for everything in this repo.
+A clickable web prototype of a **personalized "best places to live" recommender**, built directly from the [**Web App MVP** Miro board](https://miro.com/app/board/uXjVHLZLYTA=/?share_link_id=375595503240) using Claude Code and the Miro MCP server. The board's three diagrams -  a UX flow, a database ERD, and a three-layer recommendation engine flowchart, are the source of truth for everything in this repo.
 
 This project started as a learning project using Miro's AI tools (Sidekick) to build a workflows for a web app. My goal was to create with Miro's tools, from ideation to commit. I wanted to build a thin-slice MVP that would result in a workable app prototype and build my skills.
 After iterating on the workflow and app features, I connected Claude Code to the Miro MCP server to ingest the workflow designs to build a working app prototype. 
